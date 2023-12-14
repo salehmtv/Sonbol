@@ -238,3 +238,5 @@ proxies:
   - {"name":"🇺🇾UY(AzadNet.t.me)","type":"ss","server":"179.27.200.28","port":989,"password":"f8f7aCzcPKbsF8p3","cipher":"aes-256-cfb"}
   - {"name":"🇿🇦ZA(AzadNet.t.me)_0001","type":"ss","server":"41.203.4.34","port":989,"password":"f8f7aCzcPKbsF8p3","cipher":"aes-256-cfb"}
   - {"name":"🇿🇦ZA(AzadNet.t.me)_0002","type":"trojan","server":"13.244.104.87","port":443,"udp":true,"password":"your_password","sni":"aws-za-capetown-1.f1rocketnode.com","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇺🇸US(AzadNet.t.me)_0592","type":"vmess","server":"62.60.130.196","port":35305,"cipher":"auto","uuid":"37e3fe44-e63c-4988-cff7-d1a27f5f0c09","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇺🇸US(AzadNet.t.me)_0532","type":"trojan","server":"104.19.145.205","port":443,"udp":true,"password":"a6292090-afe1-4640-97a7-4f1d1d877cf1","sni":"hdfy8c1.foriran.nl","skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/8bHUAD5IX0licU6D349brWUw6a","headers":{"host":"hdfy8c1.foriran.nl"}}}
