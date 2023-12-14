@@ -118,13 +118,6 @@ dns:
       
 proxies:
   - {"name":"🇨🇦CA(AzadNet.t.me)_0050","type":"vmess","server":"142.171.229.164","port":13469,"cipher":"auto","uuid":"3b77a115-0e8a-4939-e64c-f13994942c2e","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇨🇭CH(AzadNet.t.me)_0001","type":"trojan","server":"jp2.twincloud.xyz","port":443,"udp":true,"password":"6455f944-7c07-4ab0-b88f-440e581f41d9","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇨🇭CH(AzadNet.t.me)_0002","type":"trojan","server":"64.110.68.224","port":20152,"udp":true,"password":"e5f9c753-d401-487f-a77b-1004b7f0f439","sni":"13-231-155-134.nhost.00cdn.com","skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇨🇭CH(AzadNet.t.me)_0003","type":"vmess","server":"krse10.ip8.shop","port":25361,"cipher":"auto","uuid":"a5de5eb3-5760-488a-9211-e5fbd9388905","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇨🇭CH(AzadNet.t.me)_0008","type":"vmess","server":"136.0.9.89","port":45988,"cipher":"auto","uuid":"f875afcb-d9b7-4765-f34b-86e99c8827ac","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇨🇭CH(AzadNet.t.me)_0010","type":"vmess","server":"136.0.9.107","port":41907,"cipher":"auto","uuid":"8caa788f-2a3a-42c4-e891-89a8b815b719","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇨🇭CH(AzadNet.t.me)_0011","type":"vmess","server":"136.0.9.38","port":24138,"cipher":"auto","uuid":"dc1f709c-2260-4d2a-e937-e78742563e1f","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"🇨🇭CH(AzadNet.t.me)_0013","type":"vmess","server":"136.0.9.164","port":40767,"cipher":"auto","uuid":"6a63a298-9541-4c34-d809-f3af62832462","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/"}}
   - {"name":"🇩🇪DE(AzadNet.t.me)_0001","type":"trojan","server":"cnamemc.ciscocdn1.live","port":443,"udp":true,"password":"5de2dfab-28e4-4773-b0d3-8d43da0d9ac3","sni":"c3mc.ciscocdn1.live","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇩🇪DE(AzadNet.t.me)_0002","type":"trojan","server":"aws-ge-frankfurt-1.f1rocketnode.com","port":443,"udp":true,"password":"your_password","sni":"aws-ge-frankfurt-1.f1rocketnode.com","skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇩🇪DE(AzadNet.t.me)_0015","type":"vmess","server":"130.162.47.123","port":6854,"cipher":"auto","uuid":"b5f7e932-f730-4ad2-b425-40977b9db332","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/zBLPou","headers":{"host":"dengpao.de"}}}
